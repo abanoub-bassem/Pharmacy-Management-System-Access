@@ -9,4 +9,4 @@ This is a database management system for a pharmacy, built using Microsoft Acces
 ## 🎨 UI/UX Features
 * Clean and structured forms for managing **Customers**, **Medicines**, **Sales**, and **Suppliers**.
 * Professional color coding and organized layout for easy data entry and navigation.
-* Customized reports (`customers report`, `medicines report`) optimized for clean printing and viewing.
+* Customized reports  As (`customers report`, `medicines report`) optimized for clean printing and viewing.
